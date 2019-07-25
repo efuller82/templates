@@ -1,0 +1,35 @@
+body, header, footer, div, h1, h2, h3, h4, h5, h6, section, article, aside, p {
+    border: 1px solid black;
+}
+
+header {
+    background-color: orange;
+}
+
+div {
+    background-color: red;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: pink;
+}
+
+section {
+    background-color: purple;
+}
+
+aside {
+    background-color: aqua;
+}
+
+article {
+    background-color: brown;
+}
+
+p {
+    background-color: yellow;
+}
+
+footer {
+    background-color: crimson;
+}
