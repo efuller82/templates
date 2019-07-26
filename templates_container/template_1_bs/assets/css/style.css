@@ -1,0 +1,17 @@
+
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    height: 100vh;
+    background-color: blue;
+}
+
+.card {
+    height: 50vh;
+}
+
+
