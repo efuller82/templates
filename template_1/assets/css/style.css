@@ -1,0 +1,57 @@
+div, h1, h2, h3, h4, h5, h6, article, p, nav {
+    border: 1px solid black;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    background-color: orange;
+    width: 100%;
+    height: 15%;
+}
+
+
+section {
+    background-color: purple;
+    width: 50%;
+    height: 70%;
+    float: left;
+}
+
+aside {
+    background-color: brown;
+    width: 50%;
+    height: 70%;
+    float: left;
+}
+
+footer {
+    background-color: crimson;
+    width: 100%;
+    height: 15%;
+    clear: both;
+}
+
+div {
+    background-color: red;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: pink;
+}
+
+
+article {
+    background-color: aqua;
+}
+
+p {
+    background-color: yellow;
+}
+
+nav {
+    background-color: blueviolet;
+}

@@ -1,4 +1,4 @@
-body, header, footer, div, h1, h2, h3, h4, h5, h6, section, article, aside, p {
+body, header, footer, div, h1, h2, h3, h4, h5, h6, section, article, aside, p, nav {
     border: 1px solid black;
 }
 
@@ -32,4 +32,8 @@ p {
 
 footer {
     background-color: crimson;
+}
+
+nav {
+    background-color: blueviolet;
 }
